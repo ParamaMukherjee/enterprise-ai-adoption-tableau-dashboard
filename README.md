@@ -18,4 +18,5 @@ Interactive Dashboard analyzing AI Adoption across Industries (2025-2026)
 ## Live Dashboard
 https://public.tableau.com/app/profile/parama.mukherjee/viz/AIAdoption_17767955538430/EnterpriseAIAdoption
 
-![Dashboard](Dashboard)
+![Dashboard](Dashboard.jpg)
+
